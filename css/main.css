@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+.cv-header{
+    background-color: rgb(245, 245, 245);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cv-title{
+    padding-left: 4.5%;
+    padding-top: 1.5%
+}
+.cv-sub-titles{
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #0f6eac;
+    padding-left: 2.5%;
+    padding-top: 1.5%
+}
+
+.cv-name{
+    font-size: 2.75rem;
+    font-weight: 900;
+    color: #0f6eac;
+}
+
+.cv-tagline{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.cv-contact{
+    padding-top: 1.5%;
+    padding-left: 0%;
+    
+}
+.cv-image-profile{
+    border-radius: 50%;
+    padding: 15%;
+    display: block;
+}
+
+a{
+    font-weight: bold;
+}
+
+.navbar{
+    background-color:rgb(245, 245, 245);
+    font-weight: bold;
+}
+hr{
+    margin: 0 2.5% 0 2.5%;
+}
+
+.item{
+    padding-left: 5%;
+    padding-right: 5%
+}
+
+.item-title{
+    font-weight: bold;
+    color:black;
+    padding-left: 4.5%;
+}
+
+.item-meta{
+    font-size: smaller;
+    font-weight: thin;
+    color:rgb(130, 130, 130);
+    padding-left: 4.5%;
+}
+
+.item-content{
+    font-weight: normal;
+    padding-left: 4.5%;
+}
+
+.item-list{
+    font-weight: bold;
+    color: darkgray;
+    padding-left: 10%;
+}
+
+ul.cv-contact{
+    list-style-type: none;
+}
+.cv-aside-title{
+    padding-left: 2.5%;
+    line-height : 1.8;
+    font-weight: bold;
+    line-height: 1.25;
+}
+
+.cv-aside-content{
+    font-size: small;
+    padding-left: 2.5%;
+    line-height : 1.8;
+}
+
+.cv-habilidades{
+    padding-left: 2.5%;
+}
